@@ -16,7 +16,7 @@ share_updated: 2026-09-27T09:38:22+02:00
 
 |Imię i nazwisko|Nr albumu|Rola w zespole|
 |---|---|---|
-|Patryk Szymański||Reprezentacja, funkcja oceny, kary, walidator i metryki, dokumentacja|
+|Patryk Szymański|32113|Reprezentacja, funkcja oceny, kary, walidator i metryki, dokumentacja|
 |Miłosz Musiał||Operatory genetyczne, pętla ewolucyjna, projektuje chromosom, dokumentacja|
 |Daniel Gliniecki|31883|instancje testowe, algorytm zachłanny, zapis i odczyt, wykresy, koordynacja repozytorium, dokumentacja|
 
