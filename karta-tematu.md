@@ -138,3 +138,4 @@ _Wypełnia prowadzący — nie edytujcie tej sekcji._
 - [ ] do poprawy
 
 **Uwagi:**
+.
