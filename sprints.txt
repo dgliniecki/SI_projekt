@@ -12,3 +12,10 @@ Zrobiłem:
 Miłosz Musiał
 Zrobiłem:
 +Uzupełnienie dokumentacji projektu
+
+
+17-21.11.2026
+Patryk Szymański
+Zrobiłem:
++funkcja oceny (fitness), kary, walidator, metryki
++zapis wyników i generowanie wykresów
