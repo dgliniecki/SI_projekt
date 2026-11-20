@@ -19,3 +19,9 @@ Patryk Szymański
 Zrobiłem:
 +funkcja oceny (fitness), kary, walidator, metryki
 +zapis wyników i generowanie wykresów
+
+17-21.11.2026
+Miłosz Musiał
+Zrobiłem:
++Selekcja turniejowa, krzyżowanie jednopunktowe, mutacja punktowa oraz główna pętla ewolucyjna.
++Kodowanie chromosomu.
